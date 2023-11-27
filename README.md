@@ -4,7 +4,7 @@
 
 Self-destructing notes written on Go with Stanford JS Crypto Library for client-side encryption/decryption.
 
-Latest stable version deployed on [https://tornote.herokuapp.com/](https://tornote.herokuapp.com/)
+
 
 ## Security aspects
 
